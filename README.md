@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 
 <p align="center">
@@ -7,11 +7,11 @@
 
 ---
 
-## About
+## Hi there! 👋
 
-Security-focused engineer working on system resilience, infrastructure hardening, and secure software environments.
+I'm Daniel, a security enthusiast passionate about cybersecurity. I actively explore system resilience, infrastructure hardening, and secure software environments as part of my personal learning journey.
 
-Strong foundation in operating systems, networking, and low-level system behavior — with continuous development in defensive security practices and secure architecture design.
+I am developing a strong foundation in operating systems, networking, and low-level system behavior while continuously improving my knowledge of defensive security practices and secure architecture.
 ```bash
 	⁠System Hardening
 	⁠Linux Security
