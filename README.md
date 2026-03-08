@@ -43,6 +43,15 @@ Infrastructure Automation
 
 Monitoring & Observability
 
+
+
+---
+
+Hay que agregar un "Actividad reciente"
+a.a.a.a.a.a.
+
+
+
 Contact
 <div> <a href="mailto:dominus.coco@proton.me"> <img height="30" src="https://img.shields.io/badge/Email-Direct_Contact-1a1b26?style=for-the-badge&logo=gmail&logoColor=white"> </a>&nbsp; <a href="https://www.linkedin.com/"> <img height="30" src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>&nbsp; <a href="https://github.com/Lokzwery"> <img height="30" src="https://img.shields.io/badge/GitHub-Projects-24292e?style=for-the-badge&logo=github&logoColor=white"> </a>&nbsp; </div>
 <p align="center"> <sub>Focused on building secure, reliable, and resilient systems.</sub> </p>
