@@ -50,6 +50,11 @@ Monitoring & Observability
 Hay que agregar un "Actividad reciente"
 a.a.a.a.a.a.
 
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 
 
 Contact
