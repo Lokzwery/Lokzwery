@@ -53,10 +53,12 @@ a.a.a.a.a.a.
 ### :zap: Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [star-history/star-history](https://github.com/star-history/star-history)<br>
+1. ⭐ Starred [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core)<br>
+2. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
+3. ⭐ Starred [star-history/star-history](https://github.com/star-history/star-history)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 26th, 2026, 6:32:24 PM
+Last Updated: Tuesday, October 27th, 2026, 4:28:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 Contact
