@@ -53,12 +53,14 @@ a.a.a.a.a.a.
 ### :zap: Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core)<br>
-2. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
-3. ⭐ Starred [star-history/star-history](https://github.com/star-history/star-history)<br>
+1. ⭐ Starred [jonnathanguaman/demo-ia-3d](https://github.com/jonnathanguaman/demo-ia-3d)<br>
+2. 🤝 Became collaborator on [jonnathanguaman/demo-ia-3d](https://github.com/jonnathanguaman/demo-ia-3d)<br>
+3. ⭐ Starred [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core)<br>
+4. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
+5. ⭐ Starred [star-history/star-history](https://github.com/star-history/star-history)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 28th, 2026, 6:11:01 PM
+Last Updated: Thursday, October 29th, 2026, 5:12:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 Contact
